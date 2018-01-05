@@ -1,0 +1,4 @@
+[submodule "simlabs"]
+	path = simlabs
+	url = https://github.com/SimLabs/simlabs-repo
+	branch = master
